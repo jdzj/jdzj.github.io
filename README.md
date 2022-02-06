@@ -1,2 +1,2 @@
-# thomas-lv.github.io
-Thomas' Blog
+# jdzj.github.io
+Weiluge's log
